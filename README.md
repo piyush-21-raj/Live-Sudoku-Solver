@@ -25,6 +25,5 @@ This project is defined in **2 stages**:
   * correctly detect the ordering of the elements to reproduce the sudoku
 - solve the sudoku and display it as an output
 
-Article that inspired this project - Sudoku Solver using Computer Vision and Deep Learning [Part 1](https://aakashjhawar.medium.com/sudoku-solver-using-opencv-and-dl-part-1-490f08701179) [Part 2](https://aakashjhawar.medium.com/sudoku-solver-using-opencv-and-dl-part-2-bbe0e6ac87c5)
-
-Tracking Progress via a [doc](https://docs.google.com/document/d/1kK3xpeCEI2OSuNLdxyedZndlmpJeOXm3psKB9WDqKms/edit?usp=sharing) that is the primary update log for this project.
+Article that inspired this project - Sudoku Solver using Computer Vision and Deep Learning [Part 1](https://aakashjhawar.medium.com/sudoku-solver-using-opencv-and-dl-part-1-490f08701179) [Part 2](https://aakashjhawar.medium.com/sudoku-solver-using-opencv-and-dl-part-2-bbe0e6ac87c5)  
+Tracking Progress via a [doc](https://docs.google.com/document/d/1kK3xpeCEI2OSuNLdxyedZndlmpJeOXm3psKB9WDqKms/edit?usp=sharing) that is the primary update log for this project  
