@@ -13,7 +13,7 @@ This project is defined in **2 stages**:
   * the puzzle is then solved and the solution is then **superimposed on the live feed image** and display on the computer screen
   * the result would a **modified camera live feed** with the empty boxes of the puzzle filled with the current number
 
-**NOTE - ** Stage 2 is subject to change as the project progresses
+**NOTE -** Stage 2 is subject to change as the project progresses
 
 ### The To-Do list
 - construct an algorithm (preferable on your own) to solve a given sudoku (which is given as input from the console)
